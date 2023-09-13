@@ -22,7 +22,9 @@ Clicking the `+` button on your `/src` folder should bring up these options:
 
 Click on the package option to add and name a new package. You can then click on the `+` button that appears next to your new package to add classes into that package. You can also copy your classes into that package via folder structure, just be sure declare 
 
-```Java package YourPackage;``` 
+```Java 
+package YourPackage;
+``` 
 
 in the class file.
 
