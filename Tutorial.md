@@ -20,7 +20,11 @@ Clicking the `+` button on your `/src` folder should bring up these options:
 
 ![image](https://github.com/njmaysonet/cgeom-java-vscode-setup/assets/13139001/b76744e0-e2ea-428f-afc9-cc33921f539c)
 
-Click on the package option to add and name a new package. You can then click on the `+` button that appears next to your new package to add classes into that package. You can also copy your classes into that package via folder structure, just be sure declare ```Java package YourPackage;``` in the class file.
+Click on the package option to add and name a new package. You can then click on the `+` button that appears next to your new package to add classes into that package. You can also copy your classes into that package via folder structure, just be sure declare 
+
+```Java package YourPackage;``` 
+
+in the class file.
 
 Your project structure should end up looking similar to this:
 
