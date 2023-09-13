@@ -25,3 +25,9 @@ Click on the package option to add and name a new package. You can then click on
 Your project structure should end up looking similar to this:
 
 ![image](https://github.com/njmaysonet/cgeom-java-vscode-setup/assets/13139001/99c42e5f-42ba-4a6c-8fa1-b7dc14c896ef)
+
+Once you create a package named GeomLibrary, you can reference it by typing:
+
+```Java
+import GeomLibrary.*;
+```
