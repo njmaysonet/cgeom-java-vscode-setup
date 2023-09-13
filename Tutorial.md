@@ -10,3 +10,4 @@ Download the official Microsoft extensions or click on the [Install the Coding P
 
 ![image](https://github.com/njmaysonet/cgeom-java-vscode-setup/assets/13139001/c70169bf-a0c1-4ea1-bcd9-71a312ab6b80)
 
+Once your environment is set up, you can use `Ctrl+Shift+P` and type `Java` to search for the command to create a new Java project. Once you've named the project, VS Code will create the structure automatically.
